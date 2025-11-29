@@ -1,0 +1,94 @@
+{
+  "total": 75,
+  "missingImages": [
+    {
+      "index": 66,
+      "title": "soundcore Q20i da Anker, Fone de Ouvido Bluetooth com Cancelamento de Ruído Híbrido Ativo, Headphone Sem Fio, 60h Bateria, Áudio Hi-Res, Graves Potentes, App Personalização, Modo Transparência, Preto : Amazon.com.br: Instrumentos Musicais"
+    },
+    {
+      "index": 67,
+      "title": "PlayStation®5 Slim Disk - Pacote ASTRO BOT e Gran Turismo 7 | Amazon.com.br"
+    },
+    {
+      "index": 68,
+      "title": "SmartWatch, relogio smartwatch com Ecrã tátil e Alexa, à prova d'água IP68, relogio smartwatch feminino e masculino, com modo esportivo e recebimento de notificações (azul) : Amazon.com.br: Moda"
+    },
+    {
+      "index": 69,
+      "title": "Smart TV 40\" AOC Roku TV DLED Full HD 40S5045/78G - Bivolt | Amazon.com.br"
+    },
+    {
+      "index": 70,
+      "title": "Notebook Lenovo IdeaPad 1 15IRU7 Intel Core i3-1315U 8GB 256GB SSD Linux 15.6\" - 83QJS00000 Cloud Grey : Amazon.com.br: Computadores e Informática"
+    },
+    {
+      "index": 71,
+      "title": "Notebook Gamer Lenovo LOQ E Core i5-12450HX, 8GB, 512GB SSD, RTX 3050 6GB, 15.6\" 144Hz, Linux 83MES00100 : Amazon.com.br: Computadores e Informática"
+    },
+    {
+      "index": 72,
+      "title": "Samsung Galaxy Book4 Intel® Core™ i5-1335U, Windows 11 Home, 8GB, 256GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*. : Amazon.com.br: Computadores e Informática"
+    },
+    {
+      "index": 73,
+      "title": "Apple iPhone 15 (128 GB) — Rosa | Amazon.com.br"
+    },
+    {
+      "index": 74,
+      "title": "Amazon.com"
+    }
+  ],
+  "duplicates": {
+    "finalUrl": [],
+    "originalUrl": [],
+    "title": [
+      {
+        "key": "smart tv 40\" aoc roku tv dled full hd 40s5045/78g - bivolt | amazon.com.br",
+        "items": [
+          {
+            "index": 8,
+            "title": "Smart TV 40\" AOC Roku TV DLED Full HD 40S5045/78G - Bivolt | Amazon.com.br"
+          },
+          {
+            "index": 69,
+            "title": "Smart TV 40\" AOC Roku TV DLED Full HD 40S5045/78G - Bivolt | Amazon.com.br"
+          }
+        ]
+      },
+      {
+        "key": "customic capinha case capa para celular iphone 15 (6.1\"), impactor ultra anti impacto proteção militar 3 metros contra quedas, compatível mag-safe, antiamarelamento, transparente, lilás | amazon.com.br",
+        "items": [
+          {
+            "index": 27,
+            "title": "Customic Capinha Case Capa para Celular iPhone 15 (6.1\"), Impactor Ultra Anti Impacto Proteção Militar 3 metros contra quedas, Compatível Mag-Safe, Antiamarelamento, Transparente, Lilás | Amazon.com.br"
+          },
+          {
+            "index": 29,
+            "title": "Customic Capinha Case Capa para Celular iPhone 15 (6.1\"), Impactor Ultra Anti Impacto Proteção Militar 3 metros contra quedas, Compatível Mag-Safe, Antiamarelamento, Transparente, Lilás | Amazon.com.br"
+          }
+        ]
+      },
+      {
+        "key": "notebook lenovo ideapad 1 15iru7 intel core i3-1315u 8gb 256gb ssd linux 15.6\" - 83qjs00000 cloud grey : amazon.com.br: computadores e informática",
+        "items": [
+          {
+            "index": 44,
+            "title": "Notebook Lenovo IdeaPad 1 15IRU7 Intel Core i3-1315U 8GB 256GB SSD Linux 15.6\" - 83QJS00000 Cloud Grey : Amazon.com.br: Computadores e Informática"
+          },
+          {
+            "index": 46,
+            "title": "Notebook Lenovo IdeaPad 1 15IRU7 Intel Core i3-1315U 8GB 256GB SSD Linux 15.6\" - 83QJS00000 Cloud Grey : Amazon.com.br: Computadores e Informática"
+          },
+          {
+            "index": 49,
+            "title": "Notebook Lenovo IdeaPad 1 15IRU7 Intel Core i3-1315U 8GB 256GB SSD Linux 15.6\" - 83QJS00000 Cloud Grey : Amazon.com.br: Computadores e Informática"
+          },
+          {
+            "index": 70,
+            "title": "Notebook Lenovo IdeaPad 1 15IRU7 Intel Core i3-1315U 8GB 256GB SSD Linux 15.6\" - 83QJS00000 Cloud Grey : Amazon.com.br: Computadores e Informática"
+          }
+        ]
+      }
+    ]
+  }
+}
