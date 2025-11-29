@@ -359,9 +359,9 @@
           if (t.includes('tv') || t.includes('smart tv')) return 'tvs';
           if (t.includes('tênis') || t.includes('tenis') || t.includes('bota') || t.includes('coturno')) return 'shoes';
           if (t.includes('notebook') || t.includes('laptop') || t.includes('vaio') || t.includes('book')) return 'laptops';
+          if (t.includes('capa') || t.includes('capinha') || t.includes('case')) return 'cases';
           if (t.includes('fone') || t.includes('headphone') || t.includes('jbl') || t.includes('soundcore') ) return 'headphones';
           if (t.includes('playstation') || t.includes('ps5') || t.includes('ps 5') || t.includes('smartwatch') || t.includes('nintendo') || t.includes('console') || t.includes('controle')) return 'others';
-          if (t.includes('capa') || t.includes('capinha') || t.includes('case')) return 'cases';
           if (t.includes('iphone') || t.includes('celular') || t.includes('smartphone') || (t.includes('samsung') && t.includes('galaxy') && !t.includes('book'))) return 'mobiles';
           return 'mobiles';
         }
