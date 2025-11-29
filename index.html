@@ -208,9 +208,9 @@
     #${ID} .badge{ background:#000; color:#fff; padding:10px 14px; border-radius:10px; font-weight:900; white-space:nowrap; }
     #${ID} .store-name{ font-weight:800; font-size:18px; margin:0; color:#fff; }
     #${ID} .store-sub{ font-size:13px; color: rgba(255,255,255,0.9); margin:0; }
-    #${ID} .contact, #${ID} .about-btn { display:flex; align-items:center; gap:8px; background: rgba(0,0,0,0.12); padding:8px 12px; border-radius:10px; color:#fff; text-decoration:none; cursor:pointer; }
-    #${ID} .contact svg, #${ID} .about-btn svg{ width:20px;height:20px; display:block; }
-    #${ID} .contact .txt, #${ID} .about-btn .txt{ font-weight:700; font-size:14px; color:#fff; }
+    #${ID} .about-btn { display:flex; align-items:center; gap:8px; background: rgba(0,0,0,0.12); padding:8px 12px; border-radius:10px; color:#fff; text-decoration:none; cursor:pointer; }
+    #${ID} .about-btn svg{ width:20px;height:20px; display:block; }
+    #${ID} .about-btn .txt{ font-weight:700; font-size:14px; color:#fff; }
     #${ID} .cta{ background: #ff3b3b; color:#fff; padding:10px 14px; border-radius:10px; font-weight:800; text-decoration:none; white-space:nowrap; }
     @media (max-width:720px){
       #${ID} { height:100px !important; }
@@ -257,10 +257,6 @@
           </div>
         </div>
         <div style="display:flex;gap:12px;align-items:center">
-          <a href="https://wa.me/5514999089185" target="_blank" rel="noopener noreferrer" class="contact" aria-label="Fale conosco via WhatsApp">
-            ${whatsappSVG}
-            <span class="txt">Fale conosco</span>
-          </a>
           <button class="about-btn" aria-haspopup="dialog" aria-controls="${MODAL_ID}" title="Quem somos">
             ${infoSVG}
             <span class="txt">Quem somos</span>
